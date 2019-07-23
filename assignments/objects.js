@@ -66,25 +66,25 @@ const internList5= {
 // Once your objects are created, log out the following requests from HR into the console:
 
 // Mitzi's name
-// console.log(internList1.name)
+console.log(internList1.name)
 
 // Kennan's ID
-// console.log(internList2.id)
+console.log(internList2.id)
 // Keven's email
-// console.log(internList3.email)
+console.log(internList3.email)
 // Gannie's name
-// console.log(internList4.name)
+console.log(internList4.name)
 // Antonietta's Gender
-// console.log(internList5.gender)
+console.log(internList5.gender)
 
 // ==== Challenge 3: Object Methods ====
 // Give Kennan the ability to say "Hello, my name is Kennan!" Use the console.log provided as a hint.
 
 
-// console.log(internList2.speak());
+console.log(internList2.speak());
 
 // Antonietta loves math, give her the ability to multiply two numbers together and return the product. Use the console.log provided as a hint.
-// console.log(internList5.multiplyNums(3,4));
+console.log(internList5.multiplyNums(3,4));
 
 // === Great work! === Head over to the the arrays.js file or take a look at the stretch challenge
 
